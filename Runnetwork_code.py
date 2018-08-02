@@ -10,7 +10,7 @@ from random import seed
 import random
 from csv import reader
 from math import exp
-from Wei_Shuang_network_code import*
+from Network_code import*
 
 #Set the parameters
 n_inputs = 2
