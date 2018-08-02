@@ -8,7 +8,7 @@ from random import randrange
 from csv import reader
 from math import exp
 import csv
-#from Wei_Shuang_generate_dataset_code import *
+#from Generate_dataset_code import *
 
 #According to the requirement of the coursework, I use following symbol to represent each meaning in this network code.
 #x: input a point(inputs n), w: the vector of w, h: the number of neurons in the hidden layer, n_outputs: the number of neurons in the output layer(outputs n), eta: a learning rate
